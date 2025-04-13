@@ -1,0 +1,23 @@
+
+---
+
+### **2. 25_APILatencyScope**  
+**Description:**  
+A fast tool to scan and log response time and status codes across batches of APIs.
+
+#### **README.md**
+```markdown
+# APILatencyScope - Batch Endpoint Health Monitor
+
+APILatencyScope monitors multiple endpoints, logging their latency and availability for system diagnostics or uptime tracking.
+
+## Features
+- Batch scanning  
+- CSV / JSON export  
+- Adjustable timeout + retry  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_APILatencyScope.git
+cd 25_APILatencyScope
+python monitor.py
