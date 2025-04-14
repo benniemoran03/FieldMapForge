@@ -1,0 +1,23 @@
+
+---
+
+### **3. 25_LogWaveMonitor**  
+**Description:**  
+Scans logs for repetitive entries, keyword spikes, and time-based surges.
+
+#### **README.md**
+```markdown
+# LogWaveMonitor - Log Frequency & Burst Detector
+
+LogWaveMonitor detects repetitive log events and wave-like error clusters, providing fast visual summaries via CLI.
+
+## Features
+- Frequency histogram  
+- Timestamp-based grouping  
+- Keyword tracking  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_LogWaveMonitor.git
+cd 25_LogWaveMonitor
+python analyze.py
