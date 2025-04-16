@@ -1,0 +1,23 @@
+
+---
+
+### **4. 25_StreamSyncChart**  
+**Description:**  
+A responsive live chart that syncs with a real-time numeric data stream for visualization.
+
+#### **README.md**
+```markdown
+# StreamSyncChart - Realtime Data Plotting Tool
+
+StreamSyncChart turns real-time numeric input into a clean, scrollable chart for dashboards or metric analysis.
+
+## Features
+- Live line chart  
+- Matplotlib-powered  
+- Scrollable + auto-refresh  
+
+## Usage
+```bash
+git clone https://github.com/your-username/25_StreamSyncChart.git
+cd 25_StreamSyncChart
+python visualize.py
